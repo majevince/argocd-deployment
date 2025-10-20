@@ -276,7 +276,7 @@ Inspired by example repositories such as argocd‑example‑apps which demonstra
 GitHub
 
 ## Contact
-For questions or issues, please open an issue in this repository or reach out at your_email@example.com.
+For questions or issues, please open an issue in this repository or reach out at lptxanyahvincent@gmail.com.
 
 “Declare it once in Git. Argo CD will ensure the cluster lives it.”
 
@@ -285,7 +285,7 @@ Thank you for using this GitOps infrastructure!
 ---
 
 ✅ **Next Steps**  
-- Replace placeholder fields like *Your Name* and *your_email@example.com* with real values.  
+- Replace placeholder fields like *Your Name* and *lptxanyahvincent@gmail.com* with real values.  
 - Update any version numbers, Kubernetes cluster details, or environment names to reflect your real setup.  
 - If there are special workflows (e.g., multi-cluster, ApplicationSets, helm-chart publishing) you can add additional sections.  
 - Consider adding badges at the top (build status, license, coverage) for visual polish.
