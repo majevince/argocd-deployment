@@ -249,21 +249,21 @@ GitHub
 Contributing
 Contributions are welcome! Here’s how you can help:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a feature branch: git checkout -b feature/my-new-feature
+2. Create a feature branch: git checkout -b feature/my-new-feature
 
-Run any validation/lint checks locally (e.g., kube-val, helm lint).
+3. Run any validation/lint checks locally (e.g., kube-val, helm lint).
 
-Commit with clear, descriptive messages.
+4. Commit with clear, descriptive messages.
 
-Push your branch and open a Pull Request.
+5. Push your branch and open a Pull Request.
 
-Ensure that CI passes and reviewers approve changes.
+6. Ensure that CI passes and reviewers approve changes.
 
 Please follow the Contributor Code of Conduct in this project.
 
-License
+### License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 Authors & Acknowledgements
